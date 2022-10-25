@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey, what's up!
+
+I am Dean, I am starting my journey as Dev.
+
+I can use HTML, CSS and Javascript 
 
 <!--
 **6dean/6dean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
