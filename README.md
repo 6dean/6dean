@@ -1,32 +1,11 @@
-# About me 
+<img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1671472423/my-content/finalgif_cw3dqm.gif" />
 
-<h5 >Hello everyone ! <img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1667128043/my-content/rsz_1image_aznbyo.png" width="90"/>
+# MY PROJECTS
 
->
+<a href="https://rawg-rockdean.netlify.app/">RAWG.io</a> 
 
-My name is Rockdean, I am 33 years old and I am a **FullStack Dev**.
+<a href="https://vinted-rockdean.netlify.app/">VINTED</a> 
 
-I always have been in love with Tech and code so I went to the best Bootcamp Code School to learn : **Le Reacteur**.
+<a href="https://marvel-rockdean.netlify.app/">MARVEL</a> 
 
-I already did few projects while study, check them out !! I am always ready to learn more. 😁
-
-# Environment
-
-<img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1669064294/github/deanV3_hyjeii.png" alt="environment-coding" width="400" />
-
-# Code Languages
-
-<img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1669064293/github/deanV1_x39fel.png" alt="languages" width="400" />
-
-# Softwares
-
-<img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1669064294/github/deanV4_agjzrp.png" alt="softwares" width="400" />
-
-# Frameworks & others
-
-<img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1669064294/github/deanV5_ujdfnm.png" alt="frameworks" width="400"/>
-
-# Online Tools
-
-<img src="https://res.cloudinary.com/dlfp2xvis/image/upload/v1669064294/github/deanV2_riufrg.png" alt="Online-tools" width="400"/> 
-
+<a href="https://tripadvisor-rockdean.netlify.app/">TRIPADVISOR</a> 
