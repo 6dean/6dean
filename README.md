@@ -1,7 +1,4 @@
 ![Sans-titre-3](https://user-images.githubusercontent.com/114014511/208993030-9b1afdf9-ec66-4b96-8968-b7c13d8824ca.gif)
-![deanicon](https://user-images.githubusercontent.com/114014511/208991930-d204f767-d312-4445-8657-53e695f5bb6c.png)
-![dean](https://user-images.githubusercontent.com/114014511/208992141-336b52fc-d884-4e33-a97b-e21bb660e641.png)
-
 
 # WEB PROJECTS
 
